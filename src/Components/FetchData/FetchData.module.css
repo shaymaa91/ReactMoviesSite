@@ -1,0 +1,14 @@
+.card{
+    max-width: 540px;
+    max-height: 25rem !important;
+    object-fit: cover;
+    overflow: hidden;
+}
+.imgHight {
+    height: 25rem !important;
+    object-fit: cover;
+}
+
+.headerShadow{
+    text-shadow: 5px 5px 8px #FF0000;
+  }

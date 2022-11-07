@@ -1,0 +1,26 @@
+/* .navbg{
+    background-color: #544646 ;
+    opacity: 80%;
+} */
+
+.navbarnav{
+    color:#fff !important;
+}
+
+
+.navShow{
+    background-color: #544646 ;
+    color:#fff !important;
+    opacity: 80%;
+    color:"#544646";
+    box-shadow:  0 2px 5px 0 rgba(1, 1, 1, 1);
+    transition: all .7s;
+    
+}
+
+.navHide{
+    color: #FFFFFF;
+    color:#fff !important;
+    background-color: transparent;
+    transition: all .7s;
+}
